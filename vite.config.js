@@ -8,3 +8,4 @@ export default defineConfig({
   }
   // base: '/subfolder/'  // Descomenta y ajusta si es necesario
 })
+
