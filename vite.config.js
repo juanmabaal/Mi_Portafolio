@@ -6,4 +6,5 @@ export default defineConfig({
   server: {
     open: true
   }
+  // base: '/subfolder/'  // Descomenta y ajusta si es necesario
 })
